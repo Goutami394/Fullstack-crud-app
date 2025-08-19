@@ -23,5 +23,4 @@ POST /user → Create user
 PUT /user/{id} → Update user
 DELETE /user/{id} → Delete user
 
-## 📂 Project Structure
 
