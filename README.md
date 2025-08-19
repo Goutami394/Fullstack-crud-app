@@ -15,5 +15,13 @@ A simple full-stack application built with **React (frontend)** and **Spring Boo
 - **Database:** MySQL Workbench
 - **Tools:** VS Code, IntelliJ, Postman
 
+## API Endpoints
+
+GET /users → Fetch all users
+GET /user/{id} → Fetch user by ID
+POST /user → Create user
+PUT /user/{id} → Update user
+DELETE /user/{id} → Delete user
+
 ## 📂 Project Structure
 
